@@ -7,7 +7,6 @@ import Coursework from './pages/coursework';
 function App() {
   return (
     <div className="App">
-      <div className="App-header">
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}></Route>
@@ -15,8 +14,6 @@ function App() {
           <Route path="/coursework" element={<Coursework />}></Route>
         </Routes>
       </BrowserRouter>
-      </div>
-      {/* <Avi src = {profPic} /> */}
     </div>
   );
 }

@@ -3,6 +3,9 @@
 .semester-block {
     background-color: #ece0d1;
     min-width: 400px;
-    min-height: 300px;
-    overflow:auto;
+    max-height: 300px;
+    display: flex;
+    border-color: 'black';
+    border-width: 10px;
+    display: inline-block;
 }

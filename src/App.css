@@ -8,7 +8,13 @@
   display: flex;
 }
 
-/* for adjusting menu links */
+.App-header-variant {
+  background-color: #dbc1ac;
+  min-height: 100vh;
+  display: flex;
+}
+
+/* for adjusting menu links on homepage */
 
 .menu-wrapper {
   display: flex;
@@ -34,4 +40,12 @@
 
 .menu:hover > .menu-item:hover {
   opacity: 1;
+}
+
+/* grid layout on coursework page */
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
 }

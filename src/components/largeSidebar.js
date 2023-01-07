@@ -24,14 +24,14 @@ function LargeSidebar() {
                             {/* <div className="sidebar-text" style={textFont}>Hi, I'm</div> */}
                             <div className="my-name" style={nameFont}>Alice Wu</div>
                             <div className="sidebar-text" style={textFont}>
-                                Stats and CS @ Harvard University
+                                Stats and CS <br/> @ Harvard University
                             </div>
                         </div>
                     </div>
-                    {/* <div className="sidebar-bottom">
-                        <div className="sidebar-bottom-text" style={textFont}>Currently:</div>
-                        <div className="sidebar-bottom-text" style={textFont}>Made with ♥ in React.</div>
-                    </div> */}
+                    <div className="sidebar-bottom">
+                        {/* <div className="sidebar-bottom-text" style={textFont}>Currently:</div> */}
+                        <div className="sidebar-bottom-footer" style={textFont}>Made with ♥ in React.</div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -15,19 +15,24 @@ function LargeSidebar() {
     return (
         <div className="sidebar-wrapper">
             <div className="sidebar-card">
-                <div className="sidebar-top">
-                    <div className="sidebar-top-child">
-                        <img className="sidebar-image" alt="alice wu" src={profPic} />
+                <div className="sidebar-content">
+                    <div className="sidebar-top">
+                        <div className="sidebar-top-child sidebar-top-image">
+                            <img className="sidebar-image" alt="alice wu" src={profPic} />
+                        </div>
+                        <div className="sidebar-top-child sidebar-top-text">
+                            {/* <div className="sidebar-text" style={textFont}>Hi, I'm</div> */}
+                            <div className="my-name" style={nameFont}>Alice Wu</div>
+                            <div className="sidebar-text" style={textFont}>
+                                Stats and CS @ Harvard University
+                            </div>
+                        </div>
                     </div>
-                    <div className="sidebar-top-child">
-                        <div className="sidebar-text" style={textFont}>Hi, I'm</div>
-                        <div className="my-name" style={nameFont}>Alice Wu.</div>
-                    </div>
+                    {/* <div className="sidebar-bottom">
+                        <div className="sidebar-bottom-text" style={textFont}>Currently:</div>
+                        <div className="sidebar-bottom-text" style={textFont}>Made with ♥ in React.</div>
+                    </div> */}
                 </div>
-                <div className="sidebar-bottom">
-                    <div className="sidebar-bottom-text" style={textFont}>Currently:</div>
-                </div>
-                {/* <Avi src={profPic} /> */}
             </div>
         </div>
     )

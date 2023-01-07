@@ -1,0 +1,8 @@
+/* semesterBlock.js */
+
+.semester-block {
+    background-color: #ece0d1;
+    min-width: 400px;
+    min-height: 300px;
+    overflow:auto;
+}

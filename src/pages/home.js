@@ -10,7 +10,7 @@ function Home() {
         <div class="menu-wrapper">
             <div class="menu">
                 <div class="menu-item">
-                    <BigText class="menu-item" text="About Me" link="/about"/>
+                    <BigText class="menu-item" text="About" link="/about"/>
                 </div>
                 <div class="menu-item">
                     <BigText class="menu-item" text="Projects" link="/projects"/>

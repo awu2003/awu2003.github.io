@@ -10,6 +10,13 @@
     justify-content: center;
 }
 
+@media screen and (max-width: 800px) {
+    .sidebar-wrapper {
+        min-height: 0vh;
+        width: 100vw;
+    }
+}
+
 .sidebar-card {
     background-color: #ece0d1;
     max-width: 700px;
@@ -38,9 +45,12 @@
     justify-content: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
+    .sidebar-top {
+        flex-direction: column-reverse;
+    }
     .sidebar-top-child {
-        width: 100%;
+        width: auto;
         display: block; /* Stops it from floating */
         margin: auto; /* Ensures that it is centered */
         margin-bottom: 25px; /* Space between the stacked elements */
@@ -50,13 +60,14 @@
 .sidebar-image {
     max-width: 200px;
     max-height: 200px;
+    width: 100%;
     border-radius: 50%;
-    filter: grayscale(100%);
+    filter: grayscale(0%);
     transition: filter .5s ease-in-out;
 }
 
 .sidebar-image:hover {
-    filter: grayscale(0%);
+    filter: grayscale(100%);
 }
 
 .sidebar-top-text {
@@ -70,6 +81,7 @@
 .sidebar-text {
     color: #2E0E02;
     font-size: 30px;
+    line-height: 1.2;
 }
 
 .my-name {
@@ -79,3 +91,13 @@
 }
 
 /* bottom part */
+
+.sidebar-bottom {
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 800px) {
+    .sidebar-bottom {
+        margin-top: 0px;
+    }
+}

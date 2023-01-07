@@ -2,14 +2,12 @@ import React from 'react'
 import "./bigText.css"
 
 function BigText(props) {
-  const mystyle = {
-    padding: "5px",
-    fontSize: "80px",
+  const myFont = {
     fontFamily: "CormorantGaramondMI"
   };
 
   return (
-    <div style={mystyle}>
+    <div className="text-wrapper" style={myFont}>
       <a class="hover-underline-animation" href={props.link}>
         {props.text}
       </a>

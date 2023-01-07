@@ -17,11 +17,12 @@
 }
 
 .menu {
-  margin: 5%;
+  /* margin: 5%; */
   align-items: start;
 }
 
 .menu-item {
+  /* margin-left: 15%; */
   transition: 0.4s;
   display: flex;
   align-content: flex-end;

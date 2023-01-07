@@ -6,11 +6,12 @@ function App() {
   return (
     <div className="App">
       <div className="App-header">
-      <BrowserRouter>
+        <Home />
+      {/* <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}></Route>
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
       </div>
       {/* <Avi src = {profPic} /> */}
     </div>

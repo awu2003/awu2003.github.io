@@ -18,3 +18,46 @@ code {
    url("./fonts/CormorantGaramond/CormorantGaramond-MediumItalic.ttf") format("truetype");
   font-weight: bold;
 }
+
+@font-face {
+  font-family: "NunitoL";
+  src: local("NunitoL"),
+   url("./fonts/Nunito/Nunito-Light.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "NunitoM";
+  src: local("NunitoM"),
+   url("./fonts/Nunito/Nunito-Medium.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "NunitoB";
+  src: local("NunitoB"),
+   url("./fonts/Nunito/Nunito-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "JosefinSansB";
+  src: local("JosefinSansB"),
+   url("./fonts/JosefinSans/JosefinSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "JosefinSansM";
+  src: local("JosefinSansM"),
+   url("./fonts/JosefinSans/JosefinSans-Medium.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "JosefinSansL";
+  src: local("JosefinSansL"),
+   url("./fonts/JosefinSans/JosefinSans-Light.ttf") format("truetype");
+  font-weight: bold;
+}
+

@@ -3,7 +3,6 @@ import "./bigText.css"
 
 function BigText(props) {
   const mystyle = {
-    color: "white",
     padding: "5px",
     fontSize: "80px",
     fontFamily: "CormorantGaramondMI"

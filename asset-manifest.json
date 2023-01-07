@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.712e59cf.css",
+    "main.js": "/personal-website/static/js/main.ca0d2850.js",
+    "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
+    "static/media/CormorantGaramond-MediumItalic.ttf": "/personal-website/static/media/CormorantGaramond-MediumItalic.9cfefa19b48747b36e42.ttf",
+    "static/media/Nunito-Medium.ttf": "/personal-website/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "static/media/Nunito-Light.ttf": "/personal-website/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
+    "static/media/Nunito-Bold.ttf": "/personal-website/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
+    "static/media/JosefinSans-Medium.ttf": "/personal-website/static/media/JosefinSans-Medium.dd8ca571bd9cc36eb6f5.ttf",
+    "static/media/JosefinSans-Light.ttf": "/personal-website/static/media/JosefinSans-Light.7d788b889d3f61f984c8.ttf",
+    "static/media/JosefinSans-Bold.ttf": "/personal-website/static/media/JosefinSans-Bold.a3a7c833253b917d3b74.ttf",
+    "static/media/alice_wu.jpeg": "/personal-website/static/media/alice_wu.fcf1aa6a8d97f4e3d490.jpeg",
+    "index.html": "/personal-website/index.html",
+    "main.712e59cf.css.map": "/personal-website/static/css/main.712e59cf.css.map",
+    "main.ca0d2850.js.map": "/personal-website/static/js/main.ca0d2850.js.map",
+    "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712e59cf.css",
+    "static/js/main.ca0d2850.js"
+  ]
+}

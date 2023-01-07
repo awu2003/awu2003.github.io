@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "CormorantGaramondMI";
+  src: local("CormorantGaramondMI"),
+   url("./fonts/CormorantGaramond/CormorantGaramond-MediumItalic.ttf") format("truetype");
+  font-weight: bold;
+}

@@ -2,10 +2,24 @@
 
 .semester-block {
     background-color: #ece0d1;
-    min-width: 400px;
-    max-height: 300px;
+    padding-left: 10%;
+    padding-right: 10%;
     display: flex;
     border-color: 'black';
     border-width: 10px;
     display: inline-block;
+}
+
+.block-header {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.course {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0px;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 20px;
 }

@@ -10,16 +10,16 @@ function Home() {
         <div class="menu-wrapper">
             <div class="menu">
                 <div class="menu-item">
-                    <BigText class="menu-item" text="About" link="/about"/>
+                    <BigText class="menu-item" type="home" text="About" link="/about"/>
                 </div>
                 <div class="menu-item">
-                    <BigText class="menu-item" text="Projects" link="/projects"/>
+                    <BigText class="menu-item" type="home" text="Projects" link="/projects"/>
                 </div>
                 <div class="menu-item">
-                    <BigText class="menu-item" text="Coursework" link="/coursework"/>
+                    <BigText class="menu-item" type="home" text="Coursework" link="/coursework"/>
                 </div>
                 <div class="menu-item">
-                    <BigText class="menu-item" text="Links" link="/links"/>
+                    <BigText class="menu-item" type="home" text="Links" link="/links"/>
                 </div>
             </div>
         </div>

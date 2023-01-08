@@ -1,0 +1,15 @@
+@import "../App.css";
+
+.navbar-wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100vh;
+  position: fixed;
+  top: 0;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.nav {
+
+}
+

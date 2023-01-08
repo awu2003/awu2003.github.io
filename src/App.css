@@ -31,7 +31,7 @@
   /* margin-left: 15%; */
   transition: 0.4s;
   display: flex;
-  align-content: flex-end;
+  /* align-content: flex-end; */
 }
 
 .menu:hover > .menu-item {

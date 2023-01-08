@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.a54d4ee8.css",
-    "main.js": "/personal-website/static/js/main.b912403b.js",
-    "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
-    "static/media/CormorantGaramond-MediumItalic.ttf": "/personal-website/static/media/CormorantGaramond-MediumItalic.9cfefa19b48747b36e42.ttf",
-    "static/media/Nunito-Medium.ttf": "/personal-website/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
-    "static/media/Nunito-Light.ttf": "/personal-website/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
-    "static/media/Nunito-Bold.ttf": "/personal-website/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
-    "static/media/JosefinSans-Medium.ttf": "/personal-website/static/media/JosefinSans-Medium.dd8ca571bd9cc36eb6f5.ttf",
-    "static/media/JosefinSans-Light.ttf": "/personal-website/static/media/JosefinSans-Light.7d788b889d3f61f984c8.ttf",
-    "static/media/JosefinSans-Bold.ttf": "/personal-website/static/media/JosefinSans-Bold.a3a7c833253b917d3b74.ttf",
-    "static/media/alice_wu.jpeg": "/personal-website/static/media/alice_wu.fcf1aa6a8d97f4e3d490.jpeg",
-    "index.html": "/personal-website/index.html",
-    "main.a54d4ee8.css.map": "/personal-website/static/css/main.a54d4ee8.css.map",
-    "main.b912403b.js.map": "/personal-website/static/js/main.b912403b.js.map",
-    "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/static/css/main.922fb288.css",
+    "main.js": "/static/js/main.9a81045b.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/CormorantGaramond-MediumItalic.ttf": "/static/media/CormorantGaramond-MediumItalic.9cfefa19b48747b36e42.ttf",
+    "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "static/media/Nunito-Light.ttf": "/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
+    "static/media/Nunito-Bold.ttf": "/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
+    "static/media/JosefinSans-Medium.ttf": "/static/media/JosefinSans-Medium.dd8ca571bd9cc36eb6f5.ttf",
+    "static/media/JosefinSans-Light.ttf": "/static/media/JosefinSans-Light.7d788b889d3f61f984c8.ttf",
+    "static/media/JosefinSans-Bold.ttf": "/static/media/JosefinSans-Bold.a3a7c833253b917d3b74.ttf",
+    "static/media/alice_wu.jpeg": "/static/media/alice_wu.fcf1aa6a8d97f4e3d490.jpeg",
+    "index.html": "/index.html",
+    "main.922fb288.css.map": "/static/css/main.922fb288.css.map",
+    "main.9a81045b.js.map": "/static/js/main.9a81045b.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a54d4ee8.css",
-    "static/js/main.b912403b.js"
+    "static/css/main.922fb288.css",
+    "static/js/main.9a81045b.js"
   ]
 }

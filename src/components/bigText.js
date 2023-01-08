@@ -8,7 +8,7 @@ function BigText(props) {
   
   const type = props.type
 
-  if (type == "home") {
+  if (type === "home") {
     return (
       <div className="text-wrapper home" style={myFont}>
         <a class="hover-underline-animation" href={props.link}>
@@ -17,10 +17,10 @@ function BigText(props) {
       </div>
     )
   }
-  else if (type == "navbar") {
+  else if (type === "navbar") {
     return (
       <div className="text-wrapper navbar" style={myFont}>
-        <a class="hover-underline-animation" href={props.link}>
+        <a class="hover-underline-animation smaller" href={props.link}>
           {props.text}
         </a>
       </div>

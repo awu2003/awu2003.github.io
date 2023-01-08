@@ -8,10 +8,10 @@
   display: flex;
 }
 
-.App-header-variant {
+.variant {
   background-color: #dbc1ac;
-  min-height: 100vh;
-  display: flex;
+  padding-top: 100px;
+  justify-content: center;
 }
 
 /* for adjusting menu links on homepage */
@@ -20,6 +20,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-left: 40px;
 }
 
 .menu {

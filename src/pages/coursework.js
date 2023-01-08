@@ -6,7 +6,7 @@ import '../App.css'
 
 function Coursework() {
   return (
-    <div className="App-header-variant">
+    <div className="App-header variant">
       <Navbar />
       <div className="courses-grid">
         {CourseworkData.map((semester) => (
